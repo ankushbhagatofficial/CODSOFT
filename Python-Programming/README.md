@@ -1,4 +1,4 @@
-# CodeSoft - Python Programming 
+# CodSoft - Python Programming 
 
 Welcome to the Python Programming, this directory is dedicated to housing a collection of Python project, showcasing various aspects of programming in Python.
 
