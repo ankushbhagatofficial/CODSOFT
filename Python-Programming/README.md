@@ -4,15 +4,15 @@ Welcome to the Python Programming, this directory is dedicated to housing a coll
 
 ## Project List
 
-1. **[To-Do-List](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/To-Do-List):** A GUI application to manage tasks and to-do items efficiently.
+1. **[To-Do-List](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Python-Programming/To-Do-List):** A GUI application to manage tasks and to-do items efficiently.
 
-2. **[Calculator](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Calculator):** A GUI-based calculator program to perform arithmetic operations.
+2. **[Calculator](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Python-Programming/Calculator):** A GUI-based calculator program to perform arithmetic operations.
 
-3. **[Rock-Paper-Scissors](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Rock-Paper-Scissors):** A GUI implementation of the classic game where players choose between rock, paper, or scissors.
+3. **[Rock-Paper-Scissors](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Python-Programming/Rock-Paper-Scissors):** A GUI implementation of the classic game where players choose between rock, paper, or scissors.
 
-4. **[Password-Generator](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Password-Generator):** A GUI tool to generate secure and random passwords with customizable options.
+4. **[Password-Generator](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Python-Programming/Password-Generator):** A GUI tool to generate secure and random passwords with customizable options.
 
-5. **[Contact-Book](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Contact-Book):** A GUI application to store and manage contact information, facilitating easy retrieval and organization.
+5. **[Contact-Book](https://github.com/ankushbhagatofficial/CODSOFT/tree/master/Python-Programming/Contact-Book):** A GUI application to store and manage contact information, facilitating easy retrieval and organization.
 
 ## How to Use
 
